@@ -14,3 +14,9 @@ Wähle **basics_cheatsheet.R** aus. Dieses Skript zeigt dir die Grundvokabeln vo
 Über das RStudio-Fenster unten rechts kannst du über den Reiter *Files* anschließend im Ordner *Übungen* nun **basics.R** auswählen und dich an den Übungen versuchen. Nutze das Cheatsheet als Hilfe, oder schau in **Lösungen/basics_loesungen.R**
 
 ## 3. Das Tidyverse
+Das Tidyverse ist eine Sammlung mehrerer verwandter Funktionspakete (tidyr, dplyr, ggplot2...). Alle basieren auf der Philosophie, das es ein bestimmtes *tidy data format* gibt, in das man die Daten überführen sollte. Auf diesen [älteren Vortragsfolien](https://docs.google.com/presentation/d/1pbZGjy_rjb_0-vZ4x1YxqABf6WT7gv3nRFpuVGQk1e4/edit#slide=id.g91b1a85673_1_104) gibt es eine kleine theoretische Einführung dazu. 
+
+Öffne das **tidyverse_cheatsheet.R** und lerne die wichtigsten Funktionen der tidyverse-Pakete kennen. Auch hier gibt es Übungen und Lösungen.
+
+## 4. Hands On: Datenbereinigung, Analyse, Visualisierung
+Im *Projekte*-Ordner gibt es weitere Übungen, Challenges und Exkursionen in R-Pakete. Such dir eines der Projekte aus, öffne die **.Rproj**-Datei und leg los! Die Projekte handeln sich an datenjournalistischen Anwendungsfällen entlang und helfen dir, die typischen Fallstricke und Aufgaben bei journalistischen Datenrecherchen zu üben. Dieser Ordner wird immer mal wieder um neue Projekte und Aufgaben ergänzt. 
