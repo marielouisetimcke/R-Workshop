@@ -1,4 +1,4 @@
-Code for journalism: Kleiner Selbstlernkurs für das Programmieren in R
+## Code for Journalism: Kleiner Selbstlernkurs für das Programmieren in R
 Crash-Einführung in R, Übungen und Lösungen
 
 Mit diesem Kurs können sich Journalist:innen selbst in das Coden mit der statistischen Programmiersprache R für journalistische Anwendungsfälle einarbeiten. Der Workshop besteht aus Cheatsheets, welche die wichtigsten Funktionen einführen, Aufgaben und Lösungsbeispielen mit Anmerkungen. 
